@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokeActivityLib</string>
+    <string name="jokes_display_header">JokeActivityLib</string>
+
+</resources>
